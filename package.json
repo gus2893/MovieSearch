@@ -2,7 +2,7 @@
   "name": "search",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gus2893.github.io/movies/",
+  "homepage": "https://gus2893.github.io/MovieSearch/",
   "dependencies": {
     "axios": "^0.18.0",
     "gh-pages": "^2.0.1",
